@@ -14,7 +14,7 @@
 ---------
 
 * **Programming languages**: Python, Java, JavaScript, Golang and C#.
-* **Tools & frameworks**: Flask, Django, FastAPI, Celery, Keras,Spring Framework, Apache Spark, Apache Kafka, React, NextJS, ExpressJS,<br> Gin, Gorm, Gorilla, ASP.NET, Entity Framework, MassTransit, Docker and Kubernetes.
+* **Tools & frameworks**: Flask, Django, FastAPI, Celery, Keras,Spring Framework, Apache Spark, Apache Kafka, React, NextJS, ExpressJS, Gin, Gorm, Gorilla, ASP.NET, Entity Framework, MassTransit, Docker and Kubernetes.
 * **Operating systems**: Equally proficient across Windows, macOS and Linux.
 
 **Contact**
